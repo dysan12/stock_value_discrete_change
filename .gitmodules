@@ -1,0 +1,3 @@
+[submodule "service/utilites"]
+	path = service/utilites
+	url = https://github.com/dysan12/aet_utilities.git
